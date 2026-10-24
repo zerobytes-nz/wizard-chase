@@ -25,6 +25,11 @@ Enter the dungeon and collect all the coins to descend to the next level.
 * *SpaceBar* to cast a Magic Wall 
 ![Alt Text](https://img.itch.zone/aW1nLzc3MTE0NTEucG5n/original/PN2m%2FV.png), which blocks enemies.  Magic Walls can only be added to tiles with horizontal and vertical lines (![Alt Text](https://img.itch.zone/aW1nLzgxMjAyNzQucG5n/original/w%2FSQlJ.png) and ![Alt Text](https://img.itch.zone/aW1nLzgxMjAyOTMucG5n/original/zf0%2Fp6.png)).
 
+* *R*, *F* and *V* to use power-ups (AWIs):
+* *R* uses the 1st selected item
+* *F* uses the 2nd selected item
+* *V* uses the 3rd selected item
+
 ### Enemies:
 
 Enemies will scatter in different directions, but every few seconds the enemies will have the following AI:
