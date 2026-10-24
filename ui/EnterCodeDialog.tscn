@@ -1,0 +1,37 @@
+[gd_scene format=2]
+
+[node name="EnterCodeDialog" type="WindowDialog"]
+margin_left = 67.0
+margin_top = 94.0
+margin_right = 232.0
+margin_bottom = 155.0
+popup_exclusive = true
+window_title = "Enter Code"
+
+[node name="le_code" type="LineEdit" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -51.0
+margin_top = -24.5
+margin_right = 51.0
+margin_bottom = 1.5
+align = 1
+max_length = 15
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+clear_button_enabled = true
+shortcut_keys_enabled = false
+placeholder_text = "382xW2"
+
+[node name="bt_send" type="Button" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -21.5
+margin_top = 8.5
+margin_right = 21.5
+margin_bottom = 28.5
+text = "Send"
